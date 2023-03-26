@@ -1,3 +1,6 @@
-Hi there!
-I am Betoto Steven
-You will find in this section who I am and What I do.
+### Hi there!
+
+-- I am Betoto Steven.
+-- I am learning to code.
+-- I am looking to collaborate on many project
+-- How to reach me : betotosteven@gmail.com
