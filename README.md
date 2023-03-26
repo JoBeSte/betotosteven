@@ -5,7 +5,18 @@
 - I am looking to collaborate on many projects.
 - How to reach me : betotosteven@gmail.com .
 
-<br><br>
 Facebook : https://www.facebook.com/betotosteven.bsae.mg<br>
 LinkedIn : https://www.linkedin.com/in/betotosteven/
-<br><br>
+
+<details>
+<summary>My Top Language</summary>
+<br>
+
+| Rank | Languages  |
+|-----:|------------|
+|     1| HTML       |
+|     2| CSS        |
+|     3| JavaScript |
+|     4| SQL        |
+
+</details>
