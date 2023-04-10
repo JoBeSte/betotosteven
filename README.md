@@ -5,8 +5,8 @@
 - I am looking to collaborate on many projects.
 - How to reach me : betotosteven@gmail.com .
 
-Facebook : https://www.facebook.com/betotosteven.bsae.mg<br>
-LinkedIn : https://www.linkedin.com/in/betotosteven/
+Facebook : https://www.facebook.com/jobeste<br>
+LinkedIn : https://www.linkedin.com/showcase/jobeste<br>
 
 <details>
 <summary>My Top Language</summary>
