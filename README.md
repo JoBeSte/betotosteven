@@ -5,7 +5,8 @@
 - I am looking to collaborate on many projects.
 - How to reach me : jobeste.bsae@gmail.com .
 
-Facebook : https://www.facebook.com/jobeste<br>
+Facebook : https://www.facebook.com/jobeste.bsae.mg<br>
+Instagram : https://www.instagram.com/jobeste.bsae.mg<br>
 LinkedIn : https://www.linkedin.com/showcase/jobeste<br>
 Website : https://jobeste8.wordpress.com<br>
 
