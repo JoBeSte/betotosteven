@@ -3,12 +3,12 @@
 - I am Betoto Steven (Jobeste).
 - I am learning to code.
 - I am looking to collaborate on many projects.
-- How to reach me : jobeste.bsae@gmail.com .
+- How to reach me : jobeste@bsae.mg .
 
 Facebook : https://www.facebook.com/jobeste.bsae.mg<br>
 Instagram : https://www.instagram.com/jobeste.bsae.mg<br>
 LinkedIn : https://www.linkedin.com/showcase/jobeste<br>
-Website : https://jobeste8.wordpress.com<br>
+Website : https://jobeste.bsae.com<br>
 
 <details>
 <summary>My Top Language</summary>
