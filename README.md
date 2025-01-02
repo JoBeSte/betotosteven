@@ -8,7 +8,7 @@
 Facebook : https://www.facebook.com/jobeste.bsae.mg<br>
 Instagram : https://www.instagram.com/jobeste.bsae.mg<br>
 LinkedIn : https://www.linkedin.com/showcase/jobeste<br>
-Website : https://jobeste.bsae.com<br>
+Website : https://jobeste.bsae.mg<br>
 
 <details>
 <summary>My Top Language</summary>
